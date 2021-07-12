@@ -1,0 +1,5 @@
+one\digital\innovation\pessoa\controller\PessoaControllerTest.class
+one\digital\innovation\pessoa\service\PessoaServiceTest.class
+one\digital\innovation\pessoa\repository\PessoaRepositoryTest.class
+one\digital\innovation\pessoa\util\ResourceUtils.class
+one\digital\innovation\pessoa\util\DatabaseCleaner.class
