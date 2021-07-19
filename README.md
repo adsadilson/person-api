@@ -18,6 +18,8 @@ Elaboração do projeto proposto pelo Digital Innovation com a finalidade de ger
 * User: ADMIN 
 * Password: 1 
 
+![Animação](https://user-images.githubusercontent.com/7797330/126126381-2e74783e-99a9-43a8-9e75-84aab18e87e2.gif)
+
 ## Autor
 * Adilson Paraguai S. Santos
 * https://www.linkedin.com/in/adilson-paraguai-b2a47111a/
